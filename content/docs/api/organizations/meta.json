@@ -1,0 +1,19 @@
+{
+  "title": "Organizations",
+  "pages": [
+    "delete_v1_organizations_id",
+    "delete_v2_organizations_id",
+    "get_v1_organizations",
+    "get_v1_organizations_id",
+    "get_v1_organizations_id_history",
+    "get_v1_organizations_search",
+    "get_v2_organizations",
+    "get_v2_organizations_id",
+    "get_v2_organizations_id_history",
+    "get_v2_organizations_search",
+    "patch_v1_organizations_id",
+    "patch_v2_organizations_id",
+    "post_v1_organizations",
+    "post_v2_organizations"
+  ]
+}

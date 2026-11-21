@@ -1,0 +1,23 @@
+---
+title: "boundary.changed"
+description: "Deliver change notification"
+---
+
+## Delivery
+
+```json
+{
+  "required": true,
+  "content": {
+    "application/json": {
+      "schema": {
+        "$ref": "#/components/schemas/boundary.changed"
+      }
+    }
+  }
+}
+```
+
+## Responses
+
+- `204` Delivery accepted.

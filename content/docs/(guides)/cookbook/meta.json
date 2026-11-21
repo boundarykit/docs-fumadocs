@@ -1,0 +1,19 @@
+{
+  "title": "Cookbook",
+  "pages": [
+    "detect-a-noisy-agent",
+    "expire-a-session",
+    "export-audit-evidence",
+    "inspect-usage-spikes",
+    "isolate-a-preview-agent",
+    "limit-tool-access",
+    "replay-a-denied-call",
+    "review-policy-drift",
+    "rotate-an-api-key",
+    "route-an-alert",
+    "scope-a-support-bot",
+    "stage-a-policy-rollout",
+    "test-nested-rules",
+    "trace-a-webhook"
+  ]
+}

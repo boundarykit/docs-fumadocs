@@ -1,0 +1,19 @@
+{
+  "title": "Audits",
+  "pages": [
+    "delete_v1_audits_id",
+    "delete_v2_audits_id",
+    "get_v1_audits",
+    "get_v1_audits_id",
+    "get_v1_audits_id_history",
+    "get_v1_audits_search",
+    "get_v2_audits",
+    "get_v2_audits_id",
+    "get_v2_audits_id_history",
+    "get_v2_audits_search",
+    "patch_v1_audits_id",
+    "patch_v2_audits_id",
+    "post_v1_audits",
+    "post_v2_audits"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "title": "CI/CD",
+  "pages": [
+    "artifact-promotion",
+    "failure-diagnostics",
+    "github-actions",
+    "gitlab-ci",
+    "pr-policy-gates",
+    "preview-environments",
+    "protected-branches",
+    "release-evidence",
+    "rollback",
+    "secret-injection"
+  ],
+  "root": true
+}

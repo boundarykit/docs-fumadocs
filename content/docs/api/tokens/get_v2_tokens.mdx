@@ -1,0 +1,16 @@
+---
+title: "List tokens (v2)"
+description: "GET /v2/tokens"
+---
+
+## Request
+
+`GET /v2/tokens`
+
+<TypeTable type={{"X-Organization-Id": {"type": "string", "description": "header parameter", "required": true}, "cursor": {"type": "string", "description": "query parameter", "required": false}}} />
+
+## Responses
+
+- `200` Request completed.
+- `403` Scope denied
+- `503` Service unavailable

@@ -1,0 +1,16 @@
+---
+title: "Delete evaluation (v2)"
+description: "DELETE /v2/evaluations/{id}"
+---
+
+## Request
+
+`DELETE /v2/evaluations/{id}`
+
+<TypeTable type={{"X-Organization-Id": {"type": "string", "description": "header parameter", "required": true}, "id": {"type": "string", "description": "path parameter", "required": true}}} />
+
+## Responses
+
+- `204` Record removed.
+- `403` Scope denied
+- `503` Service unavailable

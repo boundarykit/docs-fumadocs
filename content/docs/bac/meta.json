@@ -1,0 +1,16 @@
+{
+  "title": "BaC",
+  "pages": [
+    "apply-revisions",
+    "cli-installation",
+    "detect-drift",
+    "gitops-workflows",
+    "initialize-a-workspace",
+    "plan-changes",
+    "promote-configuration",
+    "recover-a-revision",
+    "validate-a-manifest",
+    "yaml-schema"
+  ],
+  "root": true
+}

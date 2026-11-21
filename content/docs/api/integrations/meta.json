@@ -1,0 +1,19 @@
+{
+  "title": "Integrations",
+  "pages": [
+    "delete_v1_integrations_id",
+    "delete_v2_integrations_id",
+    "get_v1_integrations",
+    "get_v1_integrations_id",
+    "get_v1_integrations_id_history",
+    "get_v1_integrations_search",
+    "get_v2_integrations",
+    "get_v2_integrations_id",
+    "get_v2_integrations_id_history",
+    "get_v2_integrations_search",
+    "patch_v1_integrations_id",
+    "patch_v2_integrations_id",
+    "post_v1_integrations",
+    "post_v2_integrations"
+  ]
+}

@@ -1,0 +1,16 @@
+---
+title: "Get session (v2)"
+description: "GET /v2/sessions/{id}"
+---
+
+## Request
+
+`GET /v2/sessions/{id}`
+
+<TypeTable type={{"X-Organization-Id": {"type": "string", "description": "header parameter", "required": true}, "id": {"type": "string", "description": "path parameter", "required": true}}} />
+
+## Responses
+
+- `200` Request completed.
+- `403` Scope denied
+- `503` Service unavailable

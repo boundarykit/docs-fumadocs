@@ -1,0 +1,19 @@
+{
+  "title": "Agents",
+  "pages": [
+    "delete_v1_agents_id",
+    "delete_v2_agents_id",
+    "get_v1_agents",
+    "get_v1_agents_id",
+    "get_v1_agents_id_history",
+    "get_v1_agents_search",
+    "get_v2_agents",
+    "get_v2_agents_id",
+    "get_v2_agents_id_history",
+    "get_v2_agents_search",
+    "patch_v1_agents_id",
+    "patch_v2_agents_id",
+    "post_v1_agents",
+    "post_v2_agents"
+  ]
+}

@@ -1,0 +1,23 @@
+---
+title: "alert.opened"
+description: "Deliver change notification"
+---
+
+## Delivery
+
+```json
+{
+  "required": true,
+  "content": {
+    "application/json": {
+      "schema": {
+        "$ref": "#/components/schemas/alert.opened"
+      }
+    }
+  }
+}
+```
+
+## Responses
+
+- `204` Delivery accepted.

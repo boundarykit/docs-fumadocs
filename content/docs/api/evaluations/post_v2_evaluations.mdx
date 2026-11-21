@@ -1,0 +1,32 @@
+---
+title: "Create evaluation (v2)"
+description: "POST /v2/evaluations"
+---
+
+## Request
+
+`POST /v2/evaluations`
+
+<TypeTable type={{"X-Organization-Id": {"type": "string", "description": "header parameter", "required": true}}} />
+
+## Request body
+
+```json
+{
+  "required": true,
+  "content": {
+    "application/json": {
+      "schema": {
+        "$ref": "#/components/schemas/Record"
+      }
+    }
+  }
+}
+```
+
+## Responses
+
+- `200` Request completed.
+- `202` Queued for processing.
+- `403` Scope denied
+- `503` Service unavailable

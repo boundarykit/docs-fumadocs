@@ -1,0 +1,19 @@
+{
+  "title": "Sessions",
+  "pages": [
+    "delete_v1_sessions_id",
+    "delete_v2_sessions_id",
+    "get_v1_sessions",
+    "get_v1_sessions_id",
+    "get_v1_sessions_id_history",
+    "get_v1_sessions_search",
+    "get_v2_sessions",
+    "get_v2_sessions_id",
+    "get_v2_sessions_id_history",
+    "get_v2_sessions_search",
+    "patch_v1_sessions_id",
+    "patch_v2_sessions_id",
+    "post_v1_sessions",
+    "post_v2_sessions"
+  ]
+}

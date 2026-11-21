@@ -1,0 +1,38 @@
+---
+title: "Import policy bundle (v2)"
+description: "POST /v2/policies/import"
+---
+
+## Request
+
+`POST /v2/policies/import`
+
+<TypeTable type={{"X-Organization-Id": {"type": "string", "description": "header parameter", "required": true}}} />
+
+## Request body
+
+```json
+{
+  "required": true,
+  "content": {
+    "multipart/form-data": {
+      "schema": {
+        "type": "object",
+        "properties": {
+          "file": {
+            "type": "string",
+            "format": "binary"
+          }
+        }
+      }
+    }
+  }
+}
+```
+
+## Responses
+
+- `200` Request completed.
+- `202` Queued for processing.
+- `403` Scope denied
+- `503` Service unavailable

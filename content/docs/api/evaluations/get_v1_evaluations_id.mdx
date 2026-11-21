@@ -1,0 +1,16 @@
+---
+title: "Get evaluation (v1)"
+description: "GET /v1/evaluations/{id}"
+---
+
+## Request
+
+`GET /v1/evaluations/{id}`
+
+<TypeTable type={{"X-Organization-Id": {"type": "string", "description": "header parameter", "required": true}, "id": {"type": "string", "description": "path parameter", "required": true}}} />
+
+## Responses
+
+- `200` Request completed.
+- `403` Scope denied
+- `503` Service unavailable

@@ -1,0 +1,31 @@
+---
+title: "Update usage-record (v2)"
+description: "PATCH /v2/usage/{id}"
+---
+
+## Request
+
+`PATCH /v2/usage/{id}`
+
+<TypeTable type={{"X-Organization-Id": {"type": "string", "description": "header parameter", "required": true}, "id": {"type": "string", "description": "path parameter", "required": true}}} />
+
+## Request body
+
+```json
+{
+  "required": true,
+  "content": {
+    "application/json": {
+      "schema": {
+        "$ref": "#/components/schemas/Record"
+      }
+    }
+  }
+}
+```
+
+## Responses
+
+- `200` Request completed.
+- `403` Scope denied
+- `503` Service unavailable

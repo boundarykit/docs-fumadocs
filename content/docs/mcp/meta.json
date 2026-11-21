@@ -1,0 +1,16 @@
+{
+  "title": "MCP",
+  "pages": [
+    "authentication",
+    "claude-setup",
+    "codex-setup",
+    "cursor-setup",
+    "hosted-sse",
+    "local-stdio",
+    "resource-discovery",
+    "server-overview",
+    "tool-catalog",
+    "tool-permissions"
+  ],
+  "root": true
+}

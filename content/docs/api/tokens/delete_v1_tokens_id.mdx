@@ -1,0 +1,16 @@
+---
+title: "Delete token (v1)"
+description: "DELETE /v1/tokens/{id}"
+---
+
+## Request
+
+`DELETE /v1/tokens/{id}`
+
+<TypeTable type={{"X-Organization-Id": {"type": "string", "description": "header parameter", "required": true}, "id": {"type": "string", "description": "path parameter", "required": true}}} />
+
+## Responses
+
+- `204` Record removed.
+- `403` Scope denied
+- `503` Service unavailable

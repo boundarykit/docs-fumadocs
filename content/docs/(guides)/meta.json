@@ -1,0 +1,17 @@
+{
+  "title": "Documentation",
+  "pages": [
+    "index",
+    "administration",
+    "architecture",
+    "changelog",
+    "cookbook",
+    "documentation",
+    "glossary",
+    "integrations",
+    "monitor",
+    "quickstart",
+    "test"
+  ],
+  "root": true
+}

@@ -1,0 +1,16 @@
+---
+title: "Delete policy (v2)"
+description: "DELETE /v2/policies/{id}"
+---
+
+## Request
+
+`DELETE /v2/policies/{id}`
+
+<TypeTable type={{"X-Organization-Id": {"type": "string", "description": "header parameter", "required": true}, "id": {"type": "string", "description": "path parameter", "required": true}}} />
+
+## Responses
+
+- `204` Record removed.
+- `403` Scope denied
+- `503` Service unavailable

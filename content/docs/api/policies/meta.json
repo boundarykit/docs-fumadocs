@@ -1,0 +1,20 @@
+{
+  "title": "Policies",
+  "pages": [
+    "delete_v1_policies_id",
+    "delete_v2_policies_id",
+    "get_v1_policies",
+    "get_v1_policies_id",
+    "get_v1_policies_id_history",
+    "get_v1_policies_search",
+    "get_v2_policies",
+    "get_v2_policies_id",
+    "get_v2_policies_id_history",
+    "get_v2_policies_search",
+    "patch_v1_policies_id",
+    "patch_v2_policies_id",
+    "post_v1_policies",
+    "post_v2_policies",
+    "post_v2_policies_import"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Webhooks",
+  "pages": [
+    "delete_v1_webhooks_id",
+    "delete_v2_webhooks_id",
+    "get_v1_webhooks",
+    "get_v1_webhooks_id",
+    "get_v1_webhooks_id_history",
+    "get_v1_webhooks_search",
+    "get_v2_webhooks",
+    "get_v2_webhooks_id",
+    "get_v2_webhooks_id_history",
+    "get_v2_webhooks_search",
+    "patch_v1_webhooks_id",
+    "patch_v2_webhooks_id",
+    "post_v1_webhooks",
+    "post_v2_webhooks"
+  ]
+}

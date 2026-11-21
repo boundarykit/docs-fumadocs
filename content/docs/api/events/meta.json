@@ -1,0 +1,11 @@
+{
+  "title": "Events",
+  "pages": [
+    "alert-opened",
+    "boundary-changed",
+    "configuration-changed",
+    "evaluation-completed",
+    "session-closed",
+    "token-revoked"
+  ]
+}

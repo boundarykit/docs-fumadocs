@@ -1,0 +1,15 @@
+{
+  "title": "Administration",
+  "pages": [
+    "audit-exports",
+    "billing",
+    "membership-reviews",
+    "organization-settings",
+    "rbac",
+    "retention",
+    "service-accounts",
+    "sso-and-saml",
+    "workspace-isolation",
+    "workspace-provisioning"
+  ]
+}

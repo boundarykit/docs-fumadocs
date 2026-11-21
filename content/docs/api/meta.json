@@ -1,0 +1,22 @@
+{
+  "title": "API",
+  "pages": [
+    "agents",
+    "alerts",
+    "audits",
+    "boundaries",
+    "evaluations",
+    "events",
+    "get_v1_status_summary",
+    "integrations",
+    "monitors",
+    "organizations",
+    "policies",
+    "sandboxes",
+    "sessions",
+    "tokens",
+    "usage",
+    "webhooks"
+  ],
+  "root": true
+}

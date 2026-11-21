@@ -1,0 +1,16 @@
+---
+title: "Search webhooks (v2)"
+description: "GET /v2/webhooks/search"
+---
+
+## Request
+
+`GET /v2/webhooks/search`
+
+<TypeTable type={{"X-Organization-Id": {"type": "string", "description": "header parameter", "required": true}, "q": {"type": "string", "description": "query parameter", "required": true}}} />
+
+## Responses
+
+- `200` Request completed.
+- `403` Scope denied
+- `503` Service unavailable

@@ -1,0 +1,20 @@
+{
+  "title": "Tokens",
+  "pages": [
+    "delete_v1_tokens_id",
+    "delete_v2_tokens_id",
+    "get_v1_tokens",
+    "get_v1_tokens_id",
+    "get_v1_tokens_id_history",
+    "get_v1_tokens_search",
+    "get_v2_tokens",
+    "get_v2_tokens_id",
+    "get_v2_tokens_id_history",
+    "get_v2_tokens_search",
+    "patch_v1_tokens_id",
+    "patch_v2_tokens_id",
+    "post_v1_tokens",
+    "post_v2_tokens",
+    "post_v2_tokens_exchange"
+  ]
+}

@@ -1,0 +1,16 @@
+---
+title: "List evaluations (v1)"
+description: "GET /v1/evaluations"
+---
+
+## Request
+
+`GET /v1/evaluations`
+
+<TypeTable type={{"X-Organization-Id": {"type": "string", "description": "header parameter", "required": true}, "cursor": {"type": "string", "description": "query parameter", "required": false}}} />
+
+## Responses
+
+- `200` Request completed.
+- `403` Scope denied
+- `503` Service unavailable

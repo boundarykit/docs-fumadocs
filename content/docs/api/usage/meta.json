@@ -1,0 +1,19 @@
+{
+  "title": "Usage",
+  "pages": [
+    "delete_v1_usage_id",
+    "delete_v2_usage_id",
+    "get_v1_usage",
+    "get_v1_usage_id",
+    "get_v1_usage_id_history",
+    "get_v1_usage_search",
+    "get_v2_usage",
+    "get_v2_usage_id",
+    "get_v2_usage_id_history",
+    "get_v2_usage_search",
+    "patch_v1_usage_id",
+    "patch_v2_usage_id",
+    "post_v1_usage",
+    "post_v2_usage"
+  ]
+}

@@ -1,0 +1,23 @@
+---
+title: "configuration.changed"
+description: "Deliver change notification"
+---
+
+## Delivery
+
+```json
+{
+  "required": true,
+  "content": {
+    "application/json": {
+      "schema": {
+        "$ref": "#/components/schemas/Decision"
+      }
+    }
+  }
+}
+```
+
+## Responses
+
+- `204` Delivery accepted.

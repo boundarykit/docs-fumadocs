@@ -1,0 +1,19 @@
+{
+  "title": "Sandboxes",
+  "pages": [
+    "delete_v1_sandboxes_id",
+    "delete_v2_sandboxes_id",
+    "get_v1_sandboxes",
+    "get_v1_sandboxes_id",
+    "get_v1_sandboxes_id_history",
+    "get_v1_sandboxes_search",
+    "get_v2_sandboxes",
+    "get_v2_sandboxes_id",
+    "get_v2_sandboxes_id_history",
+    "get_v2_sandboxes_search",
+    "patch_v1_sandboxes_id",
+    "patch_v2_sandboxes_id",
+    "post_v1_sandboxes",
+    "post_v2_sandboxes"
+  ]
+}

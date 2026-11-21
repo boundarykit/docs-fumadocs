@@ -1,0 +1,19 @@
+{
+  "title": "Boundaries",
+  "pages": [
+    "delete_v1_boundaries_id",
+    "delete_v2_boundaries_id",
+    "get_v1_boundaries",
+    "get_v1_boundaries_id",
+    "get_v1_boundaries_id_history",
+    "get_v1_boundaries_search",
+    "get_v2_boundaries",
+    "get_v2_boundaries_id",
+    "get_v2_boundaries_id_history",
+    "get_v2_boundaries_search",
+    "patch_v1_boundaries_id",
+    "patch_v2_boundaries_id",
+    "post_v1_boundaries",
+    "post_v2_boundaries"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Alerts",
+  "pages": [
+    "delete_v1_alerts_id",
+    "delete_v2_alerts_id",
+    "get_v1_alerts",
+    "get_v1_alerts_id",
+    "get_v1_alerts_id_history",
+    "get_v1_alerts_search",
+    "get_v2_alerts",
+    "get_v2_alerts_id",
+    "get_v2_alerts_id_history",
+    "get_v2_alerts_search",
+    "patch_v1_alerts_id",
+    "patch_v2_alerts_id",
+    "post_v1_alerts",
+    "post_v2_alerts"
+  ]
+}

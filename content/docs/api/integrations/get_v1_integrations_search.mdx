@@ -1,0 +1,16 @@
+---
+title: "Search integrations (v1)"
+description: "GET /v1/integrations/search"
+---
+
+## Request
+
+`GET /v1/integrations/search`
+
+<TypeTable type={{"X-Organization-Id": {"type": "string", "description": "header parameter", "required": true}, "q": {"type": "string", "description": "query parameter", "required": true}}} />
+
+## Responses
+
+- `200` Request completed.
+- `403` Scope denied
+- `503` Service unavailable

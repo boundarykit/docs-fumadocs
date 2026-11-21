@@ -1,0 +1,17 @@
+{
+  "title": "Test",
+  "pages": [
+    "baseline-comparisons",
+    "evaluation-reports",
+    "golden-decisions",
+    "latency-budgets",
+    "negative-cases",
+    "nested-rule-tests",
+    "policy-fixtures",
+    "release-acceptance",
+    "replay-sessions",
+    "sandbox-isolation-tests",
+    "tenant-separation-tests",
+    "token-expiry-tests"
+  ]
+}

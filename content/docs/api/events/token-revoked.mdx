@@ -1,0 +1,23 @@
+---
+title: "token.revoked"
+description: "Deliver change notification"
+---
+
+## Delivery
+
+```json
+{
+  "required": true,
+  "content": {
+    "application/json": {
+      "schema": {
+        "$ref": "#/components/schemas/token.revoked"
+      }
+    }
+  }
+}
+```
+
+## Responses
+
+- `204` Delivery accepted.

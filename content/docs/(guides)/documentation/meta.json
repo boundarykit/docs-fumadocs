@@ -1,0 +1,15 @@
+{
+  "title": "Documentation",
+  "pages": [
+    "authenticate-requests",
+    "compose-policies",
+    "core-concepts",
+    "design-boundaries",
+    "isolate-sandboxes",
+    "migrate-from-v1-to-v2",
+    "rate-limits",
+    "security-model",
+    "session-lifecycle",
+    "token-scopes"
+  ]
+}

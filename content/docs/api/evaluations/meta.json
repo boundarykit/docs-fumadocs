@@ -1,0 +1,19 @@
+{
+  "title": "Evaluations",
+  "pages": [
+    "delete_v1_evaluations_id",
+    "delete_v2_evaluations_id",
+    "get_v1_evaluations",
+    "get_v1_evaluations_id",
+    "get_v1_evaluations_id_history",
+    "get_v1_evaluations_search",
+    "get_v2_evaluations",
+    "get_v2_evaluations_id",
+    "get_v2_evaluations_id_history",
+    "get_v2_evaluations_search",
+    "patch_v1_evaluations_id",
+    "patch_v2_evaluations_id",
+    "post_v1_evaluations",
+    "post_v2_evaluations"
+  ]
+}

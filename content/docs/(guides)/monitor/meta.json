@@ -1,0 +1,13 @@
+{
+  "title": "Monitor",
+  "pages": [
+    "anomaly-alerts",
+    "decision-slos",
+    "delivery-latency",
+    "error-budgets",
+    "live-telemetry",
+    "request-traces",
+    "triage-dashboards",
+    "usage-reports"
+  ]
+}

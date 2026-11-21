@@ -1,0 +1,17 @@
+{
+  "title": "Integrations",
+  "pages": [
+    "anthropic",
+    "aws-lambda",
+    "cloudflare-workers",
+    "crewai",
+    "datadog",
+    "github-actions",
+    "langchain",
+    "okta",
+    "openai",
+    "pagerduty",
+    "slack",
+    "terraform"
+  ]
+}

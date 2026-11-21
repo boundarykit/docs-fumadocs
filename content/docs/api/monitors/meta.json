@@ -1,0 +1,19 @@
+{
+  "title": "Monitors",
+  "pages": [
+    "delete_v1_monitors_id",
+    "delete_v2_monitors_id",
+    "get_v1_monitors",
+    "get_v1_monitors_id",
+    "get_v1_monitors_id_history",
+    "get_v1_monitors_search",
+    "get_v2_monitors",
+    "get_v2_monitors_id",
+    "get_v2_monitors_id_history",
+    "get_v2_monitors_search",
+    "patch_v1_monitors_id",
+    "patch_v2_monitors_id",
+    "post_v1_monitors",
+    "post_v2_monitors"
+  ]
+}
