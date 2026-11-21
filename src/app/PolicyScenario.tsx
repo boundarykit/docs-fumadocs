@@ -1,0 +1,1 @@
+export function PolicyScenario({caption,href}:{caption:string,href:string}) {return <details><summary>{caption}</summary><p>Compare the active revision with the decision receipt.</p><a href={href}>Inspect the runtime architecture</a></details>}

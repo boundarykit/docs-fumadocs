@@ -14,6 +14,7 @@
     "scope-a-support-bot",
     "stage-a-policy-rollout",
     "test-nested-rules",
-    "trace-a-webhook"
+    "trace-a-webhook",
+    "BoundaryQL-Reference"
   ]
 }

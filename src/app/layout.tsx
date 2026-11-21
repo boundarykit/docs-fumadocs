@@ -9,29 +9,5 @@ export const metadata = {
 };
 
 export default function Layout({ children }: { children: React.ReactNode }) {
-  const brand = (
-    <span>
-      <img
-        src="/assets/logo/logo-light.svg"
-        alt="BoundaryKit"
-        className="h-7 dark:hidden"
-      />
-      <img
-        src="/assets/logo/logo-dark.svg"
-        alt="BoundaryKit"
-        className="hidden h-7 dark:block"
-      />
-    </span>
-  );
-  return (
-    <html lang="en" suppressHydrationWarning>
-      <body>
-        <RootProvider search={{ enabled: false }}>
-          <DocsLayout tree={source.pageTree} nav={{ title: brand }}>
-            {children}
-          </DocsLayout>
-        </RootProvider>
-      </body>
-    </html>
-  );
+  return <html lang="en" suppressHydrationWarning><body><RootProvider search={{ enabled: false }}>{children}</RootProvider></body></html>
 }

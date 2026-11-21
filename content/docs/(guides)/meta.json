@@ -1,7 +1,6 @@
 {
   "title": "Documentation",
   "pages": [
-    "index",
     "administration",
     "architecture",
     "changelog",
@@ -11,7 +10,8 @@
     "integrations",
     "monitor",
     "quickstart",
-    "test"
+    "test",
+    "overview"
   ],
   "root": true
 }

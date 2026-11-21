@@ -1,3 +1,4 @@
+import { PolicyScenario } from "../PolicyScenario";
 import { notFound } from "next/navigation";
 import {
   DocsBody,
@@ -13,7 +14,7 @@ import { Files, Folder, File } from "fumadocs-ui/components/files";
 import { TypeTable } from "fumadocs-ui/components/type-table";
 import { source } from "@/lib/source";
 
-export const generateStaticParams = () => source.generateParams();
+export const generateStaticParams = () => source.generateParams().filter(p => p.slug?.length);
 
 export default async function Page({
   params,
@@ -31,6 +32,7 @@ export default async function Page({
         <Content
           components={{
             ...components,
+            PolicyScenario,
             Tabs,
             Tab,
             Steps,

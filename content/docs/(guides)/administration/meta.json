@@ -10,6 +10,7 @@
     "service-accounts",
     "sso-and-saml",
     "workspace-isolation",
-    "workspace-provisioning"
+    "workspace-provisioning",
+    "security-compliance"
   ]
 }
